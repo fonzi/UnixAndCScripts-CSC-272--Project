@@ -1,0 +1,111 @@
+Write a short description of the action of each of these commands:
+
+cd: this changes the directory of which you are at
+
+pwd: prints the currnt directory one is working on
+
+chmod: this allowes for a program to be used, or a script to be ran
+
+chown: this changes the ownership of a file
+
+chgrp: change the group of each file
+
+date: shows the data
+
+du: summirizes the disk usage of each file
+
+man: shows the manual of the following command
+
+echo: repeats what was passed in:
+
+printf: prints argument of the specefied format
+
+script: script makes a typescript of everything printed on your terminal.
+
+passwd: The passwd command changes passwords for user accounts.
+
+uname:  Print certain system information
+
+who:  Print information about users who are currently logged in.
+
+stty: Print or change terminal characteristics.
+
+mkdir: makes a new directory on the directory you are at.
+
+rmdir: removes a directory
+
+mv: moves a file 
+
+rm: removes a file
+
+cat: shows what it is inside a file
+
+more: more is a filter for paging through text one screenful at a time.
+
+pico: This manual page briefly documents the nano command.
+
+ed: this is a terminal file editor
+
+vi: It can be used to edit all kinds of plain text
+
+wc: Print newline, word, and byte counts for each FILE, and a total line if more than one FILE is specified.
+
+lp: submits files for printing or alters a pending job
+
+od: Write an unambiguous representation, octal bytes by default, of FILE to standard output
+
+tar: Tar stores and extracts files from a tape or disk archive.
+
+gzip: reduces the size of a file
+
+zip: compresses a file
+
+umask: sets  the calling process's file mode creation mask
+
+find: returns what is closet to the keyword
+
+ln (with our without -s) : make line between files
+
+<, <<, > : in c these are bit wise operations to shift
+
+tee: read from standard input and write to standard out
+
+ps: report the current process
+
+& (at the end of a command): allowes to call another command
+
+nohup: run a command imune to hangups.
+ 
+at: examine or delete jobs, for later executions
+
+batch: read commands from standard  input  or  a  specified  file which are to be executed at a later time
+
+crontab: read commands from standard  input  or  a  specified  file which are to be executed at a later time
+
+export: this exports to another section of the os.
+
+set: this sets an object to a variable.
+
+cmp: compare two files bite by bite
+
+diff: compare two files line by line
+
+head: outputs the first part of file
+
+tail: output the last part of a file
+
+cut: removes sections from each line of files
+
+paste: merge lines of files
+
+sort: sort lines of a text files
+
+uniq: report of omit repeated lines
+
+tr: translate or delete characters
+
+grep: print lines matching pattern
+
+sed (read up on regular expressions used in sed): stream editor for filtering and transforming text.
+
+awk (read up on the power of awk): pattern scanning and text processing language. 
